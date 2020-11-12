@@ -11,7 +11,10 @@ These instructions will allow you to create a dapp easily.
 Ganache installed or truffle
 
 ## Setup
-git clone
+```sh
+git clone https://github.com/AdriGeorge/react-dapp-starter.git "folderName"
+cd "folderName"
 cd client
 npm install
 npm run start
+```
