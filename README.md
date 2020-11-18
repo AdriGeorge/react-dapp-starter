@@ -12,8 +12,8 @@ Ganache installed or truffle
 
 ## Setup
 ```sh
-git clone https://github.com/AdriGeorge/react-dapp-starter.git "folderName"
-cd "folderName"
+git clone https://github.com/AdriGeorge/react-dapp-starter.git folderName
+cd folderName
 cd client
 npm install
 npm run start
