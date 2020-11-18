@@ -1,5 +1,5 @@
-var Calculator = artifacts.require("./Calculator.sol");
+var Contract = artifacts.require('./SimpleStorage.sol');
 
-module.exports = function(deployer) {
-  deployer.deploy(Calculator);
+module.exports = function (deployer) {
+  deployer.deploy(Contract);
 };
